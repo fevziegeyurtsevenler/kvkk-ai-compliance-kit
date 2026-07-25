@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="kvkk-ai-compliance-kit" width="100%"></p>
+
 # kvkk-ai-compliance-kit
 
 <p align="center">
