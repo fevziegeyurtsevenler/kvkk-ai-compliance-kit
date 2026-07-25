@@ -1,0 +1,25 @@
+{
+  "title": "kvkk-ai-compliance-kit",
+  "description": "A KVKK + AI compliance checklist & toolkit for LLM applications (Turkish).",
+  "creators": [
+    {
+      "name": "Yurtsevenler, Fevzi Ege",
+      "affiliation": "AltaySec"
+    }
+  ],
+  "keywords": [
+    "LLM security",
+    "AI security",
+    "prompt injection",
+    "agent security",
+    "OWASP LLM Top 10",
+    "KVKK",
+    "compliance",
+    "PII",
+    "GDPR"
+  ],
+  "license": "CC-BY-4.0",
+  "upload_type": "publication",
+  "access_right": "open",
+  "publication_type": "report"
+}
