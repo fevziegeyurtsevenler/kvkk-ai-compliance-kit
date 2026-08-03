@@ -341,3 +341,21 @@ danışmanlık veya uyum garantisi değildir. Kanunların bağlayıcı kaynağı
 <a href="https://www.kvkk.gov.tr/">KVKK Kurumu</a> ve
 <a href="https://www.mevzuat.gov.tr/">mevzuat.gov.tr</a>'dir.
 </sub>
+
+---
+
+## İlgili AltaySec Kaynakları
+
+- 📖 [KVKK ve LLM Güvenliği: Yapay Zekâ Veri Uyumu](https://altaysec.com.tr/arastirmalar/kvkk-llm-guvenligi) — konunun derinlemesine Türkçe analizi
+- 🌐 [AltaySec Araştırmalar](https://altaysec.com.tr/arastirmalar/) — Türkçe yapay zekâ güvenliği yazıları
+
+## Atıf
+
+```bibtex
+@software{altaysec_kvkk_ai_compliance_kit_2026,
+  author = {{AltaySec}},
+  title  = {kvkk-ai-compliance-kit},
+  year   = {2026},
+  url    = {https://github.com/fevziegeyurtsevenler/kvkk-ai-compliance-kit}
+}
+```
